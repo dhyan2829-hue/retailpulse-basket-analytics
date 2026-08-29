@@ -1,0 +1,14 @@
+transaction_id,customer_id,store_id,channel,transaction_date,sku_id,product_name,category,units_sold,unit_price,discount_pct
+TXN1001,CUST501,STR10,In-Store,2026-02-01,SKU001,Organic Milk 1L,Dairy,2,3.50,0.00
+TXN1001,CUST501,STR10,In-Store,2026-02-01,SKU002,Whole Wheat Bread,Bakery,1,2.80,0.00
+TXN1001,CUST501,STR10,In-Store,2026-02-01,SKU003,Cheddar Cheese 250g,Dairy,1,4.50,0.10
+TXN1002,CUST502,STR12,Online,2026-02-01,SKU004,Espresso Beans 500g,Beverages,1,12.00,0.15
+TXN1002,CUST502,STR12,Online,2026-02-01,SKU005,Oat Milk 1L,Dairy,2,4.00,0.00
+TXN1003,CUST503,STR10,In-Store,2026-02-02,SKU001,Organic Milk 1L,Dairy,1,3.50,0.00
+TXN1003,CUST503,STR10,In-Store,2026-02-02,SKU002,Whole Wheat Bread,Bakery,1,2.80,0.05
+TXN1004,CUST504,STR11,In-Store,2026-02-03,SKU006,Avocado Pack,Produce,2,5.00,0.20
+TXN1004,CUST504,STR11,In-Store,2026-02-03,SKU002,Whole Wheat Bread,Bakery,1,2.80,0.00
+TXN1005,CUST505,STR12,Online,2026-02-04,SKU004,Espresso Beans 500g,Beverages,2,12.00,0.25
+TXN1005,CUST505,STR12,Online,2026-02-04,SKU001,Organic Milk 1L,Dairy,1,3.50,0.00
+TXN1006,CUST501,STR10,In-Store,2026-02-05,SKU003,Cheddar Cheese 250g,Dairy,2,4.50,0.00
+TXN1006,CUST501,STR10,In-Store,2026-02-05,SKU002,Whole Wheat Bread,Bakery,1,2.80,0.00
